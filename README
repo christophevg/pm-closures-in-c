@@ -1,0 +1,8 @@
+poor man's closures in C
+Christophe VG <contact@christophe.vg>
+
+This repository contains some basic C code to mimic closures' functionality
+using plain C. It provides some functions to do some housekeeping in storing
+and retrieving functions with associated environmental data.
+
+The goal IS NOT to create first-class citizens.
