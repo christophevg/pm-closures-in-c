@@ -1,0 +1,2 @@
+project (closures)
+add_executable(closures main.c closures.c)
